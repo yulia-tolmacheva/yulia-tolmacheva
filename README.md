@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yulia</h1>
 <h3 align="center">A passionate Java developer</h3>
+<h4 align="left">I live in Frankfurt, Germany</h4>
+<h4 align="left">Being able to create and be there where progress is - fascinates me.</h4>
 
 - 🔭 I’m currently working on [Project for Pizzerias](https://github.com/yulia-tolmacheva/tolmacheva-java-pizzaproject)
 
